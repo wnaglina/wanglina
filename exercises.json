@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "HTML基础练习",
+      "description": "完成基本的HTML文档结构搭建，包含标题、段落、列表等元素",
+      "imageUrl": "/file.svg",
+      "link": "/exercises/html-basic",
+      "tags": ["HTML", "基础"]
+    },
+    {
+      "id": 2,
+      "title": "CSS布局实战",
+      "description": "使用Flexbox和Grid实现响应式页面布局",
+      "imageUrl": "/window.svg",
+      "link": "/exercises/css-layout",
+      "tags": ["CSS", "Flexbox", "Grid"]
+    },
+    // ...保持原有3、4号练习条目不变
+]
